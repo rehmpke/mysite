@@ -1,0 +1,10 @@
+/* TEAM */
+  Developer: Roger Ehmpke
+  Site: rogerehmpke.com
+  Twitter: @rehmpke
+  Github: @rehmpke
+  Location: Bourbonnais, IL
+
+/* SITE */
+  Standards: HTML5, MD, SCSS/CSS3, JS
+  Components: Zurb Foundation, Jekyll, jQuery, Modernizr, bower, grunt

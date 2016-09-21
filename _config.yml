@@ -1,0 +1,37 @@
+name : Roger Ehmpke
+brand : Roger Ehmpke
+tagline : "Web, Graphic and User Interface Designer"
+description : "Web, Graphic and User Interface Designer"
+keyword :
+url : http://localhost:4000/
+email : rehmpke@gmail.com
+facebook : "http://www.facebook.com/rehmpke"
+pinterest : "http://pinterest.com/rehmpke/"
+twitter : http://twitter.com/rehmpke
+youtube : "http://www.youtube.com/rehmpke"
+linkedin : "https://www.linkedin.com/in/rogerehmpke"
+instagram : "http://instagram.com/rehmpke"
+flickr : "http://www.flickr.com/rehmpke"
+github : rehmpke
+author : Roger Ehmpke
+address : "564 S. Main St. Bourbonnais, IL 60914"
+phone : 815-258-4607
+analytics : UA-4328282-13
+year : 2016
+port : 4000
+markdown : kramdown
+permalink: pretty
+sass:
+  sass_dir: assets/css
+  style: nested
+  sourcemap: true
+exclude :
+  - node_modules
+  - Gruntfile.js
+  - package.json
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - bower.json
+  - assets/scss
