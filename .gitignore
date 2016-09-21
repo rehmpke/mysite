@@ -30,8 +30,6 @@ Temporary Items
 _site/
 .jekyll-metadata
 
-Gemfile.lock
-
 ### Node ###
 # Logs
 logs
