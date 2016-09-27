@@ -15,3 +15,18 @@ keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designe
     </div>
   </div>
 </section>
+<section class="case-studies">
+  <div class="row space-top double">
+    <div class="column">
+      <div class="large-7 medium-7 columns">
+        <h2>Case Studies</h2>
+      </div>
+      <div class="large-5 medium-5 columns">
+        <ul>
+          <li><a href="/casestudies/kankakee-community-college/">Kankakee Community College</a></li>
+          <li><a href="/casestudies/economic-alliance/">Economic Alliance of Kankakee County</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
