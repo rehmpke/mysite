@@ -1,6 +1,6 @@
 .hero-shot {
   min-height: 740px;
-  color: $text-secondary-colour;
+  color: $text-secondary-color;
   background-color: #83CDE5;
   //background-image: url('#{$imagedir}photo-background.jpg');
   background-repeat: no-repeat;
@@ -19,7 +19,7 @@
 @media (max-width: 481px) {
   .hero-shot {
     min-height: 250px;
-    color: $text-secondary-colour;
+    color: $text-secondary-color;
     background-color: #83CDE5;
     //background-image: url('#{$imagedir}photo-background.jpg');
     background-repeat: no-repeat;
@@ -38,7 +38,7 @@
 @media screen and (min-width: 481px) and (max-width: 1024px) {
   .hero-shot {
     min-height: 400px;
-    color: $text-secondary-colour;
+    color: $text-secondary-color;
     background-color: #83CDE5;
     //background-image: url('#{$imagedir}photo-background.jpg');
     background-repeat: no-repeat;

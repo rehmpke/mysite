@@ -33,17 +33,17 @@ button i, .button i { vertical-align: middle; }
 
 .Button--muted:hover,
 .Button--muted:focus {
-  color: $text-secondary-colour;
+  color: $text-secondary-color;
   background-color: #0192B5;
 }
 
 .Button--alternate {
   background-color: #19c2ed;
-  color: $text-secondary-colour;
+  color: $text-secondary-color;
 }
 .Button--alternate:hover,
 .Button--alternate:focus {
-  color: $text-secondary-colour;
+  color: $text-secondary-color;
   background-color: #0192B5;
 }
 
