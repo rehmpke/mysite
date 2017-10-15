@@ -12,6 +12,8 @@ keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designe
         <h2>Web, Graphic and User Interface Designer/manager</h2>
         <p>I find solutions to web design problems. I live and breath html, css, and javascript. I work for Kankakee Community College as the <a href="http://www.kcc.edu">KCC.edu</a> web manager.</p>
         <p>I've use over 20 years of web design to address design problems</p>
+        <p>I'm currently available for part-time/contract work and web development opportunities.
+​​​​​​​Contact me or reach out via Social Media.</p>
       </div>
       <div class="large-5 medium-5 columns">
       </div>
