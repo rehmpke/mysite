@@ -1,18 +1,11 @@
 .hero-shot {
-  min-height: 740px;
   color: $text-secondary-color;
   background-color: #83CDE5;
   //background-image: url('#{$imagedir}photo-background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-}
-
-.hero-shot h2{
-  background-repeat: no-repeat;
-//  background-image: url('#{$imagedir}graphic.svg');
-  height: 500px;
-  width: 434px;
+  background: linear-gradient(to left, #7b4397, #dc2430);
 }
 
 

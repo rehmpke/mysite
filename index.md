@@ -6,27 +6,14 @@ keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designe
 ---
 <section class="hero-shot">
   <div class="row space-top double">
-    <div class="column">
-      <div class="large-7 medium-7 columns">
-        <h2>Roger Ehmpke design</h2>
-        <p>Roger works for Kankakee Community College as the <a href="http://www.kcc.edu">KCC.edu</a>web manager.</p>
+    <div class="column small-centered large-centered">
+      <div class="columns">
+        <img src="/assets/img/roger.jpg" style="border-radius: 50%;border: 0 solid white;margin:0 auto;"/>
+        <h2>Web, Graphic and User Interface Designer/manager</h2>
+        <p>I find solutions to web design problems. I live and breath html, css, and javascript. I works for Kankakee Community College as the <a href="http://www.kcc.edu">KCC.edu</a> web manager.</p>
+        <p>I've use over 20 years of web design to address design problems</p>
       </div>
       <div class="large-5 medium-5 columns">
-      </div>
-    </div>
-  </div>
-</section>
-<section class="case-studies">
-  <div class="row space-top double">
-    <div class="column">
-      <div class="large-7 medium-7 columns">
-        <h2>Case Studies</h2>
-      </div>
-      <div class="large-5 medium-5 columns">
-        <ul>
-          <li><a href="/casestudies/kankakee-community-college/">Kankakee Community College</a></li>
-          <li><a href="/casestudies/economic-alliance/">Economic Alliance of Kankakee County</a></li>
-        </ul>
       </div>
     </div>
   </div>
