@@ -2,13 +2,13 @@
 layout: default
 title: Roger Ehmpke - Web, Graphic and User Interface Designer
 description: "Roger Ehmpke, Web, Graphic and User Interface Designer"
-keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designer
+keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designer,
 ---
 <section class="hero-shot">
   <div class="row space-top double">
     <div class="column">
       <div class="large-7 medium-7 columns">
-        <h2>Roger Ehmpke</h2>
+        <h2>Roger Ehmpke design</h2>
         <p>Roger works for Kankakee Community College as the <a href="http://www.kcc.edu">KCC.edu</a>web manager.</p>
       </div>
       <div class="large-5 medium-5 columns">
