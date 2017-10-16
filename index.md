@@ -37,29 +37,22 @@ keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designe
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="service-box">
                     <i class="fa fa-4x fa-diamond wow bounceIn text-primary" style="color:#fdcc52;"></i>
-                    <h3 style="color:#333333;">Sturdy Templates</h3>
-                    <p class="text-muted">Our templates are updated regularly so they don't break.</p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 text-center">
-                <div class="service-box">
-                    <i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" style="color:#fdcc52;" data-wow-delay=".1s"></i>
-                    <h3 style="color:#333333;">Ready to Ship</h3>
-                    <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+                    <h3 style="color:#333333;">Ideas</h3>
+                    <p class="text-muted">I collaborate with clients and peers to nurture and transform ideas into well thought out design specs. After all, that's where the majority of amazing user experiences start.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="service-box">
                     <i class="fa fa-4x fa-newspaper-o wow bounceIn text-primary" style="color:#fdcc52;" data-wow-delay=".2s"></i>
-                    <h3 style="color:#333333;">Up to Date</h3>
-                    <p class="text-muted">We update dependencies to keep things fresh.</p>
+                    <h3 style="color:#333333;">UX/UI</h3>
+                    <p class="text-muted">I sketch and wireframe interfaces focusing on content structure, intuitive UI patterns and simple interactions. I'm a minimalist who truly believes that less is more.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="service-box">
                     <i class="fa fa-4x fa-heart wow bounceIn text-primary" style="color:#fdcc52;" data-wow-delay=".3s"></i>
-                    <h3 style="color:#333333;">Made with Love</h3>
-                    <p class="text-muted">You have to make your websites with love these days!</p>
+                    <h3 style="color:#333333;">Code</h3>
+                    <p class="text-muted"> design in the browser with HTML(5), CSS(3) and a touch of JavaScript. I love coding things from scratch, but I can work with front-end frameworks like Bootstrap too.</p>
                 </div>
             </div>
         </div>
