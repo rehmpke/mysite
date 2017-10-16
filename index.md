@@ -35,21 +35,21 @@ keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designe
     <div class="container">
         <div class="row">
           <div class="column">
-            <div class="columns large-3 medium-6 text-center">
+            <div class="columns large-4 medium-4 text-center">
                 <div class="service-box">
                     <i class="fa fa-4x fa-diamond wow bounceIn text-primary" style="color:#fdcc52;"></i>
                     <h3 style="color:#333333;">Ideas</h3>
                     <p class="text-muted">I collaborate with clients and peers to nurture and transform ideas into well thought out design specs. After all, that's where the majority of amazing user experiences start.</p>
                 </div>
             </div>
-            <div class="columns large-3 medium-6 text-center">
+            <div class="columns large-4 medium-4 text-center">
                 <div class="service-box">
                     <i class="fa fa-4x fa-magic wow bounceIn text-primary" style="color:#fdcc52;" data-wow-delay=".2s"></i>
                     <h3 style="color:#333333;">UX/UI</h3>
                     <p class="text-muted">I sketch and wireframe interfaces focusing on content structure, intuitive UI patterns and simple interactions. I'm a minimalist who truly believes that less is more.</p>
                 </div>
             </div>
-                <div class="columns large-3 medium-6 text-center">
+                <div class="columns large-4 medium-4 text-center">
                 <div class="service-box">
                     <i class="fa fa-4x fa-code wow bounceIn text-primary" style="color:#fdcc52;" data-wow-delay=".3s"></i>
                     <h3 style="color:#333333;">Code</h3>
