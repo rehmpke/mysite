@@ -43,7 +43,7 @@ keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designe
             </div>
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="service-box">
-                    <i class="fa fa-4x fa-magic-o wow bounceIn text-primary" style="color:#fdcc52;" data-wow-delay=".2s"></i>
+                    <i class="fa fa-4x fa-magic wow bounceIn text-primary" style="color:#fdcc52;" data-wow-delay=".2s"></i>
                     <h3 style="color:#333333;">UX/UI</h3>
                     <p class="text-muted">I sketch and wireframe interfaces focusing on content structure, intuitive UI patterns and simple interactions. I'm a minimalist who truly believes that less is more.</p>
                 </div>
