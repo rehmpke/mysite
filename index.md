@@ -6,7 +6,7 @@ keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designe
 ---
 <section class="hero-shot">
   <div class="row space-top double">
-    <div class="column small-centered large-centered">
+    <div class="column">
       <div class="columns">
         <img src="/assets/img/roger.jpg" style="border-radius: 50%;border: 0 solid white;margin:0 auto;"/>
         <h2>Web, Graphic and User Interface Designer/manager</h2>
@@ -14,8 +14,6 @@ keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designe
         <p>I've use over 20 years of web design to address design problems</p>
         <p>I'm currently available for part-time/contract work and web development opportunities.
 ​​​​​​​Contact me or reach out via Social Media.</p>
-      </div>
-      <div class="large-5 medium-5 columns">
       </div>
     </div>
   </div>
