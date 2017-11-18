@@ -5,14 +5,16 @@ description: "Roger Ehmpke, Web, Graphic and User Interface Designer"
 keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designer,
 ---
 <section class="hero-shot">
-  <div class="row space-top double">
+  <div class="row space-top space-bottom double">
     <div class="column">
-      <div class="columns">
+      <div class="columns large-4 medium-4">
         <img src="/assets/img/roger.jpg" style="border-radius: 50%;border: 0 solid white;margin:0 auto;"/>
-        <h2>Web, Graphic and User Interface Designer/manager</h2>
-        <p>I find solutions to web design problems. I live and breath html, css, and javascript. I work for Kankakee Community College as the <a href="http://www.kcc.edu">KCC.edu</a> web manager.</p>
-        <p>I've use over 20 years of web design to address design problems</p>
-        <p>I'm currently available for part-time/contract work and web development opportunities.
+      </div>
+      <div class="columns large-8 medium-8">
+      <h2>Web, Graphic and User Interface Designer/manager</h2>
+      <p>I find solutions to web design problems. I live and breath html, css, and javascript. I work for Kankakee Community College as the <a href="http://www.kcc.edu">KCC.edu</a> web manager.</p>
+      <p>I've use over 20 years of web design to address design problems</p>
+      <p>I'm currently available for part-time/contract work and web development opportunities.
 ​​​​​​​Contact me or reach out via Social Media.</p>
       </div>
     </div>
