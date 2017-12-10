@@ -10,5 +10,5 @@ $(document).foundation();
     img.onload = function() {
       img.removeAttribute('data-src');
     };
-  });
+  })
 })();
