@@ -4,6 +4,10 @@ title: Roger Ehmpke - Web, Graphic and User Interface Designer
 description: "Roger Ehmpke, Web, Graphic and User Interface Designer"
 keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designer,
 ---
+<script
+  src="http://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
 <script >
   $(document).ready(function() {
     //feed to parse
