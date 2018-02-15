@@ -4,6 +4,33 @@ title: Roger Ehmpke - Web, Graphic and User Interface Designer
 description: "Roger Ehmpke, Web, Graphic and User Interface Designer"
 keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designer,
 ---
+<script >
+  $(document).ready(function() {
+    //feed to parse
+    var feed = "http://feeds.feedburner.com/raymondcamdensblog?format=xml";
+    
+    $.ajax(feed, {
+        accepts:{
+            xml:"application/rss+xml"
+        },
+        dataType:"xml",
+        success:function(data) {
+            //Credit: http://stackoverflow.com/questions/10943544/how-to-parse-an-rss-feed-using-javascript
+
+            $(data).find("item").each(function () { // or "item" or whatever suits your feed
+                var el = $(this);
+                console.log("------------------------");
+                console.log("title      : " + el.find("title").text());
+                console.log("link       : " + el.find("link").text());
+                console.log("description: " + el.find("description").text());
+            });
+    
+
+        }   
+    });
+    
+});
+</script>
 <section class="hero-shot">
   <div class="row space-top space-bottom double">
     <div class="column">
