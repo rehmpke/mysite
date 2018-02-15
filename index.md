@@ -11,7 +11,7 @@ keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designe
 <script >
   $(document).ready(function() {
     //feed to parse
-    var feed = "http://feeds.feedburner.com/raymondcamdensblog?format=xml";
+    var feed = "https://feeds.feedburner.com/raymondcamdensblog?format=xml";
     
     $.ajax(feed, {
         accepts:{
