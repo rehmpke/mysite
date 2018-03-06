@@ -42,11 +42,11 @@ keywords: Roger Ehmpke, Web, Web Developer, UI, Front End Developer, Web Designe
         <img src="/assets/img/roger.jpg" style="border-radius: 50%;border: 0 solid white;margin:0 auto;"/>
       </div>
       <div class="columns large-8 medium-8">
-      <h2>Web, Graphic and User Interface Designer/manager</h2>
-      <p>I find solutions to web design problems. I live and breath html, css, and javascript. I work for Kankakee Community College as the <a href="http://www.kcc.edu">KCC.edu</a> web manager.</p>
-      <p>I've use over 20 years of web design to address design problems</p>
-      <p>I'm currently available for part-time/contract work and web development opportunities.
-​​​​​​​Contact me or reach out via Social Media.</p>
+      <h2>Frontend Web Developer</h2>
+      <p>I am a web coordinator currently focusing on the field of frontend web development and JavaScript programming, React, and Redux. My current goal is to obtain either remote web development opportunities and/or part-time/contract employment as a frontend web application developer.</p>
+      <p>For over 2 decades I have designed and built portal sites to address design problems. I manage sites in the education industry and have in the nutritional supplement industry as well. I strive to create usable and polished products through passionate and deliberate design.</p>
+      <p>I’m living in Kankakee Illinois. I enjoy music, single malt whiskey and oil painting.</p>
+        <p>Contact me or reach out via LinkedIn or send an email.</p>
       </div>
     </div>
   </div>
